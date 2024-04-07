@@ -1,0 +1,21 @@
+Setup - qadamlar
+
+1-backend{
+    1-django loyihani yaratish uni sozlash
+    2-kerakli kkutubxonalarni o`rnatish
+    3-malumotlar bazasini yaratish va sozlash
+    4-api viewlar yaratish va ularni sozlash
+    5-url larni sozlash
+    6-test
+    7-deploy
+}
+
+2-Frontend{
+    1-react project yaratish
+    2-uni sozlash
+    3-coding
+    4-api
+    5-test
+    6-setup server
+    7-deploy server
+}
